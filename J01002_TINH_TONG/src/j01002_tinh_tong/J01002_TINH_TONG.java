@@ -15,5 +15,5 @@ public class J01002_TINH_TONG {
                 System.out.println(n * (n + 1) / 2);
             }
         }
-    }    
+    }             
 }
